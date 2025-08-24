@@ -16,9 +16,9 @@ A compact, Qt-based music player designed for simplicity, responsiveness, and ju
 
 ## 📸 Screenshots
 
-| Normal State | Unfocus State |
-|--------------|---------------|
-| *[LINK](https://photos.app.goo.gl/hdQgWPyJ3Wi6LnuX9)* | *[LINK](https://photos.app.goo.gl/6LK2YkmrdDohhUHT8)* |
+| Normal State | Unfocus State | ICONs|
+|--------------|---------------|-------------|
+| *[LINK](https://photos.app.goo.gl/hdQgWPyJ3Wi6LnuX9)* | *[LINK](https://photos.app.goo.gl/6LK2YkmrdDohhUHT8)* | [LINK](https://icons8.com/icons)|
 
 ---
 
