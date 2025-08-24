@@ -86,9 +86,3 @@ This project is open-source under the [MIT License](LICENSE).
 **Mukul Sarswat**  
 Passionate about digital logic, simulation, and clean documentation.  
 Connect via [GitHub Profile](https://github.com/mukulsarswat)
-
-```
-
----
-
-Let me know if you’d like to add waveform simulation insights, embed demo GIFs, or tailor this for a specific audience like recruiters or learners. I can also help you write a punchy project summary for your portfolio or LinkedIn.
